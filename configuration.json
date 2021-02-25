@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "statusMessage": {
+    "type": "PLAYING",
+    "message": ""
+  },
+  "deleteCommandMessages": true
+}

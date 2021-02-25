@@ -1,0 +1,22 @@
+# Dependencies
+/node_modules
+
+# Visual Studio
+/.vs
+
+# Meta
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.build
+
+# Tokens
+authorization.json
+
+# Logs
+/logs

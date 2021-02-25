@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "logMessages": true,
+  "print": true,
+  "saveToFile": true,
+  "directory": "logs",
+  "levels": {
+
+    "bot": "magenta",
+    "user": "green",
+    "command": "yellow",
+    "default": "white"
+  }
+}

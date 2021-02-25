@@ -1,0 +1,15 @@
+{
+  "name": "Ophelia",
+  "version": "1.0.0",
+  "description": "A Discord bot designed for ease of use and expandability.",
+  "main": "ophelia.js",
+  "scripts": {
+    "start": "node ophelia.js"
+  },
+  "author": "Jay Lawrence",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7"
+  }
+}
