@@ -3,7 +3,7 @@
     <br /><br />
 </div>
 
-Completely open-source and customisable, **Ophelia** is a [Discord](https://discordapp.com/) bot framework running on top of [Discord.js](https://discord.js.org/), built specifically to simplify the process of running a custom bot.
+Completely open-source and customizable, **Ophelia** is a [Discord](https://discordapp.com/) bot framework running on top of [Discord.js](https://discord.js.org/), built specifically to simplify the process of running a custom bot.
 
 ## Table of contents
 - [Features](#features)
@@ -18,7 +18,7 @@ Completely open-source and customisable, **Ophelia** is a [Discord](https://disc
 -   Hot swappable commands, allowing for commands to be modified or added while the bot is running.
 -   Built-in admin, moderator and help commands.
 -   Support for running commands through CLI.
--   Easy configuration using the **config.json** file.
+-   Easy configuration using the **configuration.json** file.
 -   A customizable logging module.
     
 *Sharding is currently not supported.*
